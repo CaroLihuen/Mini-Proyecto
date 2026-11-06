@@ -47,3 +47,8 @@ Nombre del archivo de salida (sin extensión): mi_qr
 ✓ Código QR guardado como 'mi_qr.png'
   Ubicación: C:\Users\...\Mini-Proyecto\mi_qr.png
 ```
+
+## Vista en consola
+
+<img width="1108" height="621" alt="image" src="https://github.com/user-attachments/assets/d9217b10-12bc-4611-8ac1-b4a6511ea1cb" />
+
