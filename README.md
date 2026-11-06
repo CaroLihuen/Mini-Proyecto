@@ -48,7 +48,12 @@ Nombre del archivo de salida (sin extensión): mi_qr
   Ubicación: C:\Users\...\Mini-Proyecto\mi_qr.png
 ```
 
-## Vista en consola
+## Vista del programa
+
+===En consola===
 
 <img width="1108" height="621" alt="image" src="https://github.com/user-attachments/assets/d9217b10-12bc-4611-8ac1-b4a6511ea1cb" />
 
+===Dónde se guarda===
+
+<img width="781" height="352" alt="image" src="https://github.com/user-attachments/assets/19375ade-1709-4910-8e1e-66fae9cab94a" />
