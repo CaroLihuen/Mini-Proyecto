@@ -2,6 +2,11 @@
 
 Genera códigos QR a partir de texto o URLs y los guarda como imágenes PNG.
 
+## Integrantes
+1. Carolina Lihuen Dominguez
+2. Federico Ariel Contarino
+3. Juan Marcos Villar
+
 ## Requisitos
 
 - Python 3.8+
