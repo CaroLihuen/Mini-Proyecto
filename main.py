@@ -1,6 +1,7 @@
 """Generador de códigos QR desde la terminal."""
 
 import os
+
 import qrcode
 from PIL import Image
 
@@ -37,7 +38,9 @@ def validar_nombre_archivo(nombre: str) -> str:
     caracteres_invalidos = r'\/:*?"<>|'
     for caracter in caracteres_invalidos:
         if caracter in nombre:
-            raise ValueError(f"El nombre contiene un carácter inválido: '{caracter}'")
+            raise ValueError(
+                f"El nombre contiene un carácter inválido: '{caracter}'"
+            )
 
     if not nombre.endswith(".png"):
         nombre += ".png"

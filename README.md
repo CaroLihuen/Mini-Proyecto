@@ -9,7 +9,7 @@ Genera códigos QR a partir de texto o URLs y los guarda como imágenes PNG.
 
 ## Requisitos
 
-- Python 3.8+
+- Python 3.11+
 
 ## Instalación
 
